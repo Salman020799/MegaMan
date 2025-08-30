@@ -1,3 +1,4 @@
+# MegaMan Game Clone in Python
 This project is a 2D platformer game inspired by the classic MegaMan series, developed using Python and the Pygame library. It recreates essential gameplay mechanics such as player movement, jumping, shooting, enemy behavior, item collection, and level navigation within a tile-based world.
 
 The game world is built on a 16×16 grid map system, where each tile represents terrain, obstacles, or hazards. The player can move horizontally, jump vertically, and shoot energy bullets to defeat enemies. A basic physics system is implemented to simulate gravity, jumping arcs, and collisions with terrain, spikes, and platforms.
