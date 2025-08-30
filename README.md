@@ -16,7 +16,8 @@ From a computational perspective, this project showcases several problem-solving
 - AI movement: enemy pathfinding and pursuit behaviors.
 - Grid-based representation: level design through a tile map system.
 - Probability-based resource allocation: random item drops upon enemy defeat.
-
+<img width="1366" height="768" alt="Screenshot (264)" src="https://github.com/user-attachments/assets/4a390951-2568-4dd9-a2ea-7ab83d307081" />
+<img width="1366" height="768" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/14502504-8083-4d0b-839d-5a2ea5131d8a" />
+<img width="1366" height="768" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/f419fe70-efe1-4312-90ca-34accdcfb7d1" />
 Overall, the MegaMan clone demonstrates how Python can be used not only for educational and computational problem-solving but also for creating engaging interactive entertainment systems. It blends game design principles with core computational concepts, making it both a learning tool and a fun project.
 
-[pygame-master.zip](https://github.com/user-attachments/files/22059035/pygame-master.zip)
